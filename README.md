@@ -1,13 +1,10 @@
 # Rahul_PORTFOLIO
 
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython and Notebooks.
 
 For a more visually pleasant experience for browsing the portfolio, check out [sajalsharma.com](http://sajalsharma.com)
 
-#### The R portfolio is located [here](http://rpubs.com/sajal_sharma/).
-
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
 ## Contents
 
@@ -54,8 +51,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [ML with Decision Trees and Random Forests](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
 		- [Movie Recommendations using Recommender Systems](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Recommender%20Systems%20with%20Python.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
 
-	- __R__
-		- [ML Logistic Regression](http://rpubs.com/sajal_sharma/micro_logistic): Predicting salary class of a person using logistic regression.
-		- [ML Decision Trees and Random Forests](http://rpubs.com/sajal_sharma/micro_dt_rf): Using Decision Trees and Random Forests to classify schools as Private or Public.
+	
 
-I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/sajal2692/general-portfolio/blob/master/README.md).
+
