@@ -26,11 +26,13 @@ Domain: Customer Service
 
 - ### Natural Language Processing
 
-	- [3-way Sentiment Analysis for Tweets](https://github.com/sajal2692/data-science-portfolio/blob/master/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+	- [LDA_project](https://github.com/rahulk0407/NLP/blob/master/Topic%20modeling/nlp_project_play.ipynb): topic modeling using sklearn.analyzed the reviews of the product on Amazon and the topics that customers are talking about. performed topic modeling on specific parts of speech. 
 
-	- [Cross language Information Retrieval](https://github.com/sajal2692/data-science-portfolio/blob/master/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+	- [NLP ALL IN ONE](https://github.com/rahulk0407/NLP/blob/master/NLP.ipynb): this notebook contains many sub-topics ehich comes  under NLP.
+	- [NLP using deepLearning](https://github.com/rahulk0407/NLP/blob/master/deepL_NLP.ipynb) a quick guide
+	- Currently working on translator model using encoder and decoder model, transformer and BERT. gaining more and more knowledge on these topic.
 
-	_Tools: NLTK, scikit_
+	_Tools: NLTK, scikit_,keras
 
 - ### Data Analysis and Visualisation
 	- __Python__
