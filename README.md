@@ -18,9 +18,9 @@ Domain: Customer Service
 	- [mercedes](https://github.com/rahulk0407/PROJECTS/blob/master/mercedes/mercedes_project1.ipynb): Reduce the time a Mercedes-Benz spends on the test bench.
 	
 	DeepLearning Random Kaggle competition
-	-[fruit360](https://github.com/rahulk0407/random_kaggle_practice/tree/master/fruit360)
-	-[heart](https://github.com/rahulk0407/random_kaggle_practice/blob/master/heart_disease/heart.py)
-	-[sign language](https://github.com/rahulk0407/random_kaggle_practice/blob/master/sign_language_csv/sign_language.py)
+	- [fruit360](https://github.com/rahulk0407/random_kaggle_practice/tree/master/fruit360)
+	- [heart](https://github.com/rahulk0407/random_kaggle_practice/blob/master/heart_disease/heart.py)
+	- [sign language](https://github.com/rahulk0407/random_kaggle_practice/blob/master/sign_language_csv/sign_language.py)
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
