@@ -31,7 +31,7 @@ Domain: Customer Service
 	- [NLP ALL IN ONE](https://github.com/rahulk0407/NLP/blob/master/NLP.ipynb): this notebook contains many sub-topics ehich comes  under NLP.
 	- [NLP using deepLearning](https://github.com/rahulk0407/NLP/blob/master/deepL_NLP.ipynb) a quick guide
 	- [add emoji](https://github.com/rahulk0407/language-modeling/blob/master/add_emoji.py)
-	- Currently working on translator model using encoder and decoder model, transformer and BERT. gaining more and more knowledge on these topic.
+	- Currently working on translator model using encoder and decoder model, transformer and BERT. gaining more and more knowledge on these topics.
 	
 
 	_Tools: NLTK, scikit_,keras
