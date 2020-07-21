@@ -28,7 +28,7 @@ Domain: Customer Service
 
 	- [LDA_project](https://github.com/rahulk0407/NLP/blob/master/Topic%20modeling/nlp_project_play.ipynb): topic modeling using sklearn.analyzed the reviews of the product on Amazon and the topics that customers are talking about. performed topic modeling on specific parts of speech. 
 
-	- [NLP ALL IN ONE](https://github.com/rahulk0407/NLP/blob/master/NLP.ipynb): this notebook contains many sub-topics ehich comes  under NLP.
+	- [NLP ALL IN ONE](https://github.com/rahulk0407/NLP/blob/master/NLP.ipynb): this notebook contains many sub-topics which comes  under NLP.
 	- [NLP using deepLearning](https://github.com/rahulk0407/NLP/blob/master/deepL_NLP.ipynb) a quick guide
 	- [add emoji](https://github.com/rahulk0407/language-modeling/blob/master/add_emoji.py)
 	- Currently working on translator model using encoder and decoder model, transformer and BERT. gaining more and more knowledge on these topics.
